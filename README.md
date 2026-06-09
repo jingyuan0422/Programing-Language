@@ -1,13 +1,10 @@
 # Programming Language
 * 姓名：黃靖媛
-* 授課教師: 蔡芸琤老師
 
 
 ## Final Project--ResuAI 智慧履歷分析平台
 This project is a résumé analysis platform that leverages natural language processing (NLP) technology to match keywords and evaluate résumé attributes based on the user's uploaded résumé and job description. It generates a quantitative recommendation report through automated analysis, helping job seekers identify the strengths and weaknesses of their résumés. This improves alignment with job requirements and increases the likelihood of securing an interview.
-* [第一次提案審查](https://youtu.be/wCUb0VOu1YE)
-* [第二次進度追蹤](https://youtu.be/zucZ3Vr_WPc)
-* [期末專題成果](https://youtu.be/VdGhTAT_lLw)
+* [期末專題成果](https://youtu.be/3DJDnSBFFyM)
 
 
 * [app.py](Final_Project/app.py)
